@@ -5,7 +5,7 @@
 *
 * @package language
 * @copyright (c) 2016 Rich McGirr (RMcGirr83)
-* Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -50,4 +50,9 @@ $lang = array_merge($lang, array(
 	'ADD_ATTACHMENT_EXPLAIN'		=> 'Voeg een bijlage toe om onze beslissing mogelijk te vergemakkelijken voor jou sollicitatie.',
 	'ADD_ATTACHMENT_REQ'			=> '<strong>Je moet een bijlage toevoegen om in aanmerking te komen voor deze sollicitatie</strong>.',
 	'APPLICATION_REQUIRES_ATTACHMENT'	=> 'Gelieve een bijlage toe toe voegen bij de positie waarvoor je solliciteert.',
+	'APPLICATION_QUESTIONS'			=> 'Please answer the following questions',
+	'APPLICATION_QUESTIONS_REQUIRED'	=> 'Alle vragen moeten beantwoord worden',
+	'APPLICATION QUESTION_ERROR'	=> 'U heeft niet alle vragen beantwoord',
+	'APPLICATION_REQUIRES_WHY'		=> 'Je moet antwoorden op waarom we je moeten kiezen',
+	'APPLICATION_ANSWER_TOO_SHORT'	=> 'De vraag <em>%1s</em> bevat te weinig karakters',
 ));

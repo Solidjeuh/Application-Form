@@ -5,7 +5,7 @@
 *
 * @package - Application Form language
 * @copyright 2016 Rich McGirr (RMcGirr83)
-* Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */

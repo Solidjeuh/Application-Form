@@ -5,7 +5,7 @@
 *
 * @package - Application Form language
 * @copyright 2016 Rich McGirr (RMcGirr83)
-* Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -50,4 +50,6 @@ $lang = array_merge($lang, array(
 	'APPLICATIONFORM_ALLOW_ATTACHMENT_EXPLAIN' => 'Indien ja zullen bestanden van deze formaten toegestaan worden: doc, pdf en tekst.',
 	'APPLICATIONFORM_ATTACHMENT_REQ'	=> 'Bijlage is verplicht',
 	'APPLICATIONFORM_ATTACHMENT_REQ_EXPLAIN' => 'Indien ja zal het formulier een bijlage nodig hebben voor de sollicitatie waarvoor aanvraag wordt gedaan.',
+	'APPLICATIONFORM_QUESTIONS'			=> 'Vragen',
+	'APPLICATIONFORM_QUESTIONS_EXPLAIN'	=> 'Eventuele aanvullende vragen die u op het formulier wilt stellen, kunt u hier plaatsen. Elke vraag moet op een nieuwe regel.',
 ));

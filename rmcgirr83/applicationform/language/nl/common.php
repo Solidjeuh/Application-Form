@@ -5,7 +5,7 @@
 *
 * @package language
 * @copyright (c) 2016 Rich McGirr (RMcGirr83)
-* Nederlandse vertaling @ Solidjeuh <http://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -37,5 +37,5 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'APPLICATION_FORM'				=> 'Sollicitatie formulier',
-	'APPLICATION_FORM_EXPLAIN'		=> 'Hier kan je sollicitatie doen om lid van ons team te worden',
+	'APPLICATION_FORM_EXPLAIN'		=> 'Hier kan je solliciteren om lid van ons team te worden',
 ));
